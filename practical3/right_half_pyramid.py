@@ -1,4 +1,4 @@
-# Right Half Pyramid Pattern
+# Right Half Pyramid
 
 rows = 6
 
