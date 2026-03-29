@@ -26,7 +26,7 @@ Cloud Computing with DevOps
 
 ## 📖 Description
 
-This repository contains Practical 5A.
+This repository contains Practical 5B.
 
 In this practical:
 - requirements.txt file is created
@@ -35,15 +35,6 @@ In this practical:
 
 ---
 
-## 📷 Output Screenshot
-![Output](practical5/images/output.png)
-
----
-
-## 📂 Project Structure
-![Structure](practical5/images/structure.png)
-
----
 
 ## 📝 Notes
 
