@@ -12,10 +12,10 @@
 ## 🏫 Logos
 
 ### UTU
-![UTU Logo](images/utulogo.png)
+![UTU Logo](practical5/images/utulogo.png)
 
 ### SRIMCA
-![SRIMCA Logo](images/srimcalogo.png)
+![SRIMCA Logo](practical5/images/srimcalogo.png)
 
 ---
 
@@ -36,12 +36,12 @@ In this practical:
 ---
 
 ## 📷 Output Screenshot
-![Output](images/output.png)
+![Output](practical5/images/output.png)
 
 ---
 
 ## 📂 Project Structure
-![Structure](images/structure.png)
+![Structure](practical5/images/structure.png)
 
 ---
 
